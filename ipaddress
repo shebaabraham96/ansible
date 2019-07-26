@@ -1,6 +1,0 @@
----
-- hosts: localhost
-  connection: local
-  tasks:
-    - debug: var=ansible_all_ipv4_addresses
-   
